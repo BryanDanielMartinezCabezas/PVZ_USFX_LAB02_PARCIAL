@@ -1,0 +1,7 @@
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02_BDMC\Definitions.PVZ_USFX_LAB02_BDMC.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCProjectile.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCProjectile.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

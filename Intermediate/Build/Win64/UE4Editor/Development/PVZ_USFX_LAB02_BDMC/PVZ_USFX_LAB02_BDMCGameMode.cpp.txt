@@ -1,0 +1,27 @@
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02_BDMC\Definitions.PVZ_USFX_LAB02_BDMC.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCGameMode.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCGameMode.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCPawn.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCPawn.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Spawns.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Spawns.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Zombie.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Zombie.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Plant.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Plant.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Sol.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\MovimientoAleatorio.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\MovimientoAleatorio.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Sol.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Jugador.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Jugador.generated.h

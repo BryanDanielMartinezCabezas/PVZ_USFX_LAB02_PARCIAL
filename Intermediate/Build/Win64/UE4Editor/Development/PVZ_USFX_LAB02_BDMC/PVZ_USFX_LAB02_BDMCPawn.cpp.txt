@@ -1,0 +1,24 @@
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02_BDMC\Definitions.PVZ_USFX_LAB02_BDMC.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCPawn.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCPawn.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCProjectile.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCProjectile.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
